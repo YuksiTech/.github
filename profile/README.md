@@ -1,5 +1,6 @@
-<img alt="image" src="https://www.yuksi.com.tr/assets/logo-x7qJypJQ.png" />
-
+<p align="center">
+  <img width="250" alt="image" src="https://www.yuksi.com.tr/assets/logo-x7qJypJQ.png" />
+</p>
 # 📦 Yuksi
 
 Yuksi, e-ticaret ve kurumsal gönderi süreçlerini optimize eden modern bir lojistik ve yazılım platformudur.  
