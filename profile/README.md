@@ -2,8 +2,6 @@
   <img width="250" alt="image" src="https://www.yuksi.com.tr/assets/logo-x7qJypJQ.png" />
 </p>
 
-<h1 align="center">📦 Yuksi</h1>
-
 <p align="center">
   E-ticaret ve kurumsal gönderi süreçlerini optimize eden modern lojistik ve yazılım platformu.
 </p>
